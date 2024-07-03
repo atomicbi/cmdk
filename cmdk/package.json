@@ -44,5 +44,8 @@
   "homepage": "https://github.com/pacocoursey/cmdk#readme",
   "author": {
     "url": "https://github.com/pacocoursey"
+  },
+  "publishConfig": {
+    "registry": "https://us-central1-npm.pkg.dev/atomicbi/npm/"
   }
 }
